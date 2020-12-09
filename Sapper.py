@@ -6,8 +6,6 @@ import time
 window = Tk()
 window.geometry("500x550")
 
-#Made by Podrick Payne
-#You can find other finished works on the website: http://349624-megapro253.tmweb.ru/
 
 def boom(event):
     
